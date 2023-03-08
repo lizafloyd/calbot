@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "run-func": "^3.0.0"
+  },"scripts": {
+    "hello": "run-func code.js hello",
+    "acceptArgs": "run-func code.js acceptArgs"
+ }
+}
