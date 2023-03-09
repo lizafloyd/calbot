@@ -5,4 +5,5 @@ node version
 install
 commands
 npm run hello
-npm run acceptArgs Liza
+npm run calculateFare Liza
+comma delimited

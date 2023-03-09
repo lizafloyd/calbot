@@ -1,8 +1,13 @@
 {
   "dependencies": {
     "run-func": "^3.0.0"
-  },"scripts": {
+  },
+  "scripts": {
     "hello": "run-func code.js hello",
-    "acceptArgs": "run-func code.js acceptArgs"
- }
+    "calculateFare": "run-func code.js calculateFare",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
