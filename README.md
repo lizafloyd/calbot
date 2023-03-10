@@ -1,5 +1,5 @@
 # calbot
-Calbian Transpo Authority Helper
+Calbian Transportation Authority Helper
 
 node version
 install
